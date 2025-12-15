@@ -54,9 +54,11 @@ LOAD REGULATION:
 CIRCUIT DIAGRAM:
 
 LINE REGULATION:
+
 ![WhatsApp Image 2025-12-15 at 16 23 39_cd20e04a](https://github.com/user-attachments/assets/09a531eb-9a2e-4210-a421-0e61594f7df8)
 
 LOAD REGULATION:
+
 ![WhatsApp Image 2025-12-15 at 16 23 40_ddc18690](https://github.com/user-attachments/assets/3c0f081e-6320-41d8-b63c-3e071ebf74ce)
 
 PRECAUTIONS:
@@ -66,4 +68,5 @@ PRECAUTIONS:
 
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
 RESULT:
+
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
